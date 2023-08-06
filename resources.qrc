@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/plugins/salvar_pdf" >
+        <file>icon.png</file>
+    </qresource>
+</RCC>
